@@ -5,3 +5,5 @@ Colo-Sim (Colorectal cancer Simulation model) , a dynamic compartmental populati
 The .rar file includes two Stella files. The model file (.STMX) contains the information that defines the model, such as its entities, equations, interface objects, documentation, and page layout information. The database file (.ISDB) contains the simulation run data for the model.
 
 The Excel includes raw data used for calibration as well as the projections of the model.
+
+An online interface to run the model without any software requirement is also available at: 
