@@ -9,4 +9,5 @@ The Excel file includes raw data used for calibration as well as the projections
 An online interface to run the model without any software requirement is also available at: https://exchange.iseesystems.com/public/zhasgul/colosim
 
 First article introducing the model available at: https://doi.org/10.1016/j.ypmed.2023.107694
+
 Another article where Colo-Sim is used in a cost-effectiveness analysis is under review.
